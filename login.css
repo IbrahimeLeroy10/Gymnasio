@@ -82,7 +82,7 @@ body {
   margin: 40px 0 20px 0;
 }
 .container .input-box input[type="submit"] {
-  background: #ede745;
+  background:linear-gradient(to left, blue,pink);
   font-size: 18px;
   color: #fff;
   border-radius: 5px;
